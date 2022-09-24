@@ -1,0 +1,23 @@
+{
+  "name": "mqtt",
+  "version": "0.0.1",
+  "description": "MQTT Test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aedes": "^0.47.0",
+    "aedes-server-factory": "^0.2.1",
+    "better-sqlite3": "^7.6.2",
+    "bree": "^9.1.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.5.2",
+    "mqtt": "^4.3.7",
+    "redis": "^4.2.0",
+    "request": "^2.88.2",
+    "sqlite3": "^5.0.10"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "charger_be_neo",
+  "version": "1.0.0",
+  "description": "ChargerControl Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Recker",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "bree": "^9.1.1",
+    "epxress": "^0.0.1-security",
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "mqtt": "^4.3.7",
+    "redis": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
